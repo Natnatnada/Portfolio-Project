@@ -1,10 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,700&display=swap');
+
 body{
     background-color: #000000;
     color:#c58ca7;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
 }
-.nav-link{
+.nav-link, a{
     color:#c58ca7;
+    text-decoration: none;
+}
+a{
+    color:#beaab4;
+    text-decoration: none;
+}
+.container-fluid{
+    font-weight: bold;
+    line-height: 30px;
+    padding: 150px 10px;
+
+    /* border-radius: 23px;
+background: linear-gradient(145deg, #d396b3, #b17e96);
+box-shadow:  27px 27px 63px #a27389,
+             -27px -27px 63px #e8a5c5; */
 }
 /*
 
