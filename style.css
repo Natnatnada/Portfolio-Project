@@ -59,3 +59,12 @@ background: linear-gradient(145deg, #d396b3, #b17e96);
 box-shadow:  27px 27px 63px #a27389,
              -27px -27px 63px #e8a5c5; */
 }
+img {
+
+    height: 300px;
+    
+    width: 300px;
+    
+    object-fit: cover;
+    
+    }
