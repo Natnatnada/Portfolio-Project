@@ -36,7 +36,10 @@ a{
       border-color: transparent;
     }
   }
-
+.project-title{
+  text-shadow: 19px 11px 5px rgba(199, 142, 169, 0.5);
+color: #c78ea9;
+}
 i{
     margin: 10px;
     color:var(--main-color)
@@ -53,6 +56,7 @@ i{
     font-weight: bold;
     line-height: 30px;
     padding: 100px 10px;
+    
 
     /* border-radius: 23px;
 background: linear-gradient(145deg, #d396b3, #b17e96);
